@@ -55,7 +55,3 @@ var mapOptions = {
     styles: mapStyles,
     mapTypeControl: false
 };
-
-// Foursquare data
-var foursquareClientID = '30MHFZETLY40UTVUNCGBO3A1OTQIWIHOQU3P4B3SDIVB21C5',
-    foursquareClientSecret = 'XYVQVJ1VCDRZB5YG0FYGZFYOSCRKESKZLFM10US5DTNRAXCX';
