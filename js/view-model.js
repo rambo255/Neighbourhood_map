@@ -137,7 +137,6 @@ var placesViewModel = function () {
                                         '</div>';
 
             // add loading info
-            self.infoWindow.setContent('Loading...');
             self.infoWindow.setContent(successHtml);
         }
 
